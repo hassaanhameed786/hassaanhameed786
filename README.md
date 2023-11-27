@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## I'm Hassan - Data Scientist & Machine Learning Enthusiast
+## I'm Hassan -  Data Scientist and Machine Learning Enthusiast
 
 I've been coding for 5 years, starting with data analysis and growing a passion for data science and machine learning.
 
@@ -33,13 +33,6 @@ I've been coding for 5 years, starting with data analysis and growing a passion 
 <a href="http://www.github.com/hassaanhameed786"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanhameed786&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/hassaanhameed786" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhameed786&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  <!-- Your top repositories widgets here -->
-</div>
-
 
 
 
