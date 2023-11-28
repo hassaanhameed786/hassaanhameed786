@@ -2,7 +2,7 @@
 
 ## I'm Hassan -  Data Scientist and Machine Learning Enthusiast
 
-I've been coding for 5 years, starting with data analysis and growing a passion for data science and machine learning.
+I've been coding for 5 years, starting with a foundation in Computing School and growing a passion for data science and machine learning.
 
 - 🌍  I'm based in Pakistan
 - 🖥️  Check out my portfolio at [hassaanhameed786.wordpress.com](https://hassaanhameed786.wordpress.com)
