@@ -53,11 +53,10 @@ I've been coding for 5 years, starting with a foundation in Computing School and
 ### OS
 
 [![My Skills](https://skillicons.dev/icons?i=linux,osx)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,osx)](https://skillicons.dev)
 
 ## Github Stats
 
-![Sohaib Anwaar GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaanhameed786&show_icons=true&theme=transparent)
+![hassaanhameed786 GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaanhameed786&show_icons=true&theme=transparent)
 
 ## Top Languages
 
