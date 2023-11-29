@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## I'm Hassan -  Data Scientist and Machine Learning Enthusiast
+## I'm Hassan -  Data Scientist Enthusiast
 
 I've been coding for 5 years, starting with a foundation in Computing School and growing a passion for data science and machine learning.
 
