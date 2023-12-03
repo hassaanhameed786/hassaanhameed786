@@ -12,6 +12,7 @@ I've been coding for 5 years, starting with a foundation in Computing School and
 - 🖥️  Check out my portfolio at [hassaanhameed786.wordpress.com](https://hassaanhameed786.wordpress.com)
 - ✉️  You can contact me at [hassaanhameedd786@gmail.com](mailto:hassaanhameedd786@gmail.com)
 - 🚀  I'm currently contributing to [YDATA](https://ydata.ai)
+- ✍️  My Google Scholar [Google (https://scholar.google.com/citations?user=3EkkousAAAAJ&hl=en&authuser=2)]
 - 🧠  I'm learning PyTorch and Data Analytics
 - 🤝  I'm open to collaborating on weather projects, NLP, and other problem-solving challenges
 - ⚡  I enjoy working with macOS and Linux, delving into the kernel
