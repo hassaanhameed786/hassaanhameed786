@@ -65,10 +65,16 @@ I've been coding for 5 years, starting with a foundation in Computing School and
 ## Contact Me
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hassy3k/)
+</a>
+<a href="https://www.linkedin.com/in/hassy3k/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<a href="https://hassaanhameed786.medium.com">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+</a>
 
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
