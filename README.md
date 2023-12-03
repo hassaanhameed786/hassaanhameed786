@@ -56,6 +56,9 @@ I've been coding for 5 years, starting with a foundation in Computing School and
 
 ## Github Stats
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+
 ![hassaanhameed786 GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaanhameed786&show_icons=true&theme=transparent)
 
 ## Top Languages
