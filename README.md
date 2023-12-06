@@ -10,7 +10,7 @@ I've been coding for 5 years, starting with a foundation in Computing School and
 
 - 🌍  I'm based in Pakistan
 - 🖥️  Check out my portfolio at [hassaanhameed786.wordpress.com](https://hassaanhameed786.wordpress.com)
-- ✉️  You can contact me at [hassaanhameedd786@gmail.com](mailto:hassaanhameedd786@gmail.com)
+- ✉️  You can contact me at [hassaanhameedd786@gmail.com](mailto:hassaanhameed786@gmail.com)
 - 🚀  I'm currently contributing to [YDATA](https://ydata.ai)
 - ✍️  My Google Scholar [Google Scholar](https://scholar.google.com/citations?user=3EkkousAAAAJ&hl=en&authuser=2)
 - 🧠  I'm learning PyTorch and Data Analytics
