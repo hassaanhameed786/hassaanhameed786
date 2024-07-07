@@ -4,7 +4,7 @@
 - Part-Time
 - Contract
 
-## I'm Hassan -  Data Scientist 
+## I'm Hassan -  Software Engineer 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanhameed786&label=Profile%20views&color=0e75b6&style=flat" alt="lol" /> </p>
 
 I've been coding for 5 years, starting with a foundation in Computing School and growing a passion for data science and machine learning.
