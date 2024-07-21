@@ -7,16 +7,16 @@
 ## I'm Hassan -  Software Engineer 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanhameed786&label=Profile%20views&color=0e75b6&style=flat" alt="lol" /> </p>
 
-I've been coding for 5 years, starting with a foundation in Computing School and growing a passion for data science and machine learning.
+I've been programming for 5 years, starting with a foundation in Computing School and growing a passion for AI and Backend.
 
-- 🌍  I'm based in Pakistan
+- 🌍  I'm based in Pakistan.
 - 🖥️  Check out my portfolio at [hassaanhameed786.wordpress.com](https://hassaanhameed786.wordpress.com)
-- ✉️  You can contact me at [hassaanhameedd786@gmail.com](mailto:hassaanhameed786@gmail.com)
-- 🚀  I'm currently contributing to [YDATA](https://ydata.ai)
-- ✍️  My Google Scholar [Google Scholar](https://scholar.google.com/citations?user=3EkkousAAAAJ&hl=en&authuser=2)
-- 🧠  I'm learning Unsupervised Algorithms
-- 🤝  I'm open to collaborating on weather projects, NLP, and other problem-solving challenges
-- ⚡  I enjoy working with macOS and Linux, delving into the kernel
+- ✉️   You can contact me at [hassaanhameedd786@gmail.com](mailto:hassaanhameed786@gmail.com)
+- 🚀  I'm currently working in Gemini and LLM's
+- ✍️   My Google Scholar [Google Scholar](https://scholar.google.com/citations?user=3EkkousAAAAJ&hl=en&authuser=2)
+- 🧠  I'm learning Generative AI and MLOPS.
+- 🤝  I'm open to collaborating on weather projects, NLP, and other real world problem challenges.
+- ⚡   I enjoy working with macOS and Linux, delving into the Shell(bash)
 
   <a href="https://www.github.com/hassaanhameed786" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/hassaanhameed786?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
 
