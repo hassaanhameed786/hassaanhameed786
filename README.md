@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassaanhameed786" alt="hassaanhameed786" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanhameed786&label=Profile%20views&color=0e75b6&style=flat" alt="lol" /> </p>
 
-I've been programming for 5 years, starting with a foundation in Computing School and growing a passion for AI and Backend.
+
 
 - 🌍  I'm based in Pakistan.
 - 🖥️  Check out my portfolio at [hassaanhameed786.wordpress.com](https://hassaanhameed786.wordpress.com)
